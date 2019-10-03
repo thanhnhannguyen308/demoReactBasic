@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "name": "Nguyen Nhan",
+        "tel": "03954716235",
+        "permission": 1
+    },
+    {
+        "id": 2,
+        "name": "Iron Man",
+        "tel": "03954716235",
+        "permission": 2
+    },
+    {
+        "id": 3,
+        "name": "Join Center",
+        "tel": "044854716235",
+        "permission": 3
+    },
+    {
+        "id": 4,
+        "name": "Nuth third",
+        "tel": "03954716235",
+        "permission": 1
+    },
+    {
+        "id": 5,
+        "name": "Nguyen Nhan",
+        "tel": "03954716235",
+        "permission": 1
+    }
+
+]
